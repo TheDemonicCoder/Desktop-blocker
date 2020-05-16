@@ -1,1 +1,1 @@
-# Desktop-blocker
+# Desktop-notifier
